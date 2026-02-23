@@ -1,6 +1,6 @@
 apiVersion: v2
 name: backend
-description: Backend Spring Boot - Fintexa Demo
+description: Backend Spring Boot - Demo
 type: application
 version: 0.1.0
 appVersion: "1.0.0"
