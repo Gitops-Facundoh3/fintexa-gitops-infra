@@ -8,7 +8,7 @@ metadata:
 spec:
   project: default
   source:
-    repoURL: https://github.com/Demo-Fintexa/fintexa-gitops-infra.git
+    repoURL: https://github.com/Gitops-Facundoh3/gitops-shop-demo.git
     targetRevision: HEAD
     path: helm-charts/backend
     helm:
